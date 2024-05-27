@@ -1,6 +1,6 @@
 jwt:
   header: Authorization
-  secret: eeb0Bonsp6hstpgEokKhIfmuqWVEtjjpC8EEVRErrgYaisIbYhjEFbNvvALAnXSDev
+  secret: eeb0Bonsp6hstpgEokKhIfmuqWVEtjjpC8EEVRErrgYaisIbYhjEFbNvvALAnXSDev2
   token-validity-in-seconds: 8640000
 
 gateway:
